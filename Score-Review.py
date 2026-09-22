@@ -1,4 +1,9 @@
 
+    #Project: Score Review Evaluator
+    #Author: Omid Mashkani
+    #Description: A simple script to evaluate grades using loops and conditionals.
+
+
 #کدی از امید - code from omid
 
 print("Hello! Im ready to review your score.")
