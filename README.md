@@ -1,16 +1,32 @@
-#🚀 Python Journey: omid.log
+# Python Journey
 
-Welcome to my coding repository. This space documents my journey with Python. My goal is to practice computer engineering by focusing on "one percent daily" progress.
+Welcome to my Python learning repository! This project documents my path toward mastering software engineering. My goal is to learn consistently, with a "1% better every day" mindset.
 
-## 📂 About This Project (Score Review)
-This marks the first step in writing program logic. This script acts as a "grade evaluation engine," utilizing control structures (such as `while` loops and `if/else` statements) to accept student grades and provide an analysis of their status.
+## 📂 About
+This repository serves as a log for my programming journey. Here you will find my practice codes, exercises, and small projects as I advance from basic syntax to complex software development.
 
-### 🛠 Features
-- Accepts grades via user input.
-- Uses a `while` loop for continuous data entry.
-- Implements simple logic for grade categorization.
+## 📁 Repository Structure
+Every folder represents a milestone in my learning path:
 
-## 💻 How to Run
-To run this project, simply install Python and enter the following command in your terminal:
-```bash
-python Score-Review.py
+- `Score-Review`: My first project involving input handling, `while` loops, and conditional logic.
+- *(More projects will be added as I progress)*
+
+## 🛠 Tech Stack
+- **Language:** Python 3.x
+- **Development Environment:** VS Code / CLI
+
+## 📈 Learning Roadmap
+- [x] Basic Variables & Data Types
+- [x] Conditionals (`if`, `else`, `elif`)
+- [x] Loops (`while`)
+- [ ] Functions
+- [ ] Data Structures
+- [ ] File Handling & APIs
+
+## 📬 Connect with me
+I share my daily learning updates, challenges, and insights on LinkedIn. Feel free to connect!
+
+[Add your LinkedIn profile link here]
+
+---
+*“Programming is the art of solving problems.”*
