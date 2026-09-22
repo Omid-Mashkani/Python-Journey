@@ -26,7 +26,4 @@ Every folder represents a milestone in my learning path:
 ## 📬 Connect with me
 I share my daily learning updates, challenges, and insights on LinkedIn. Feel free to connect!
 
-https://www.linkedin.com/feed/
-
----
-*“Programming is the art of solving problems.”*
+https://www.linkedin.com/in/omid-log/
