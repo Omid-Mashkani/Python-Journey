@@ -23,7 +23,4 @@ Every folder represents a milestone in my learning path:
 - [ ] Data Structures
 - [ ] File Handling & APIs
 
-## 📬 Connect with me
-I share my daily learning updates, challenges, and insights on LinkedIn. Feel free to connect!
 
-https://www.linkedin.com/in/omid-log/
