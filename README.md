@@ -18,7 +18,7 @@ Every folder represents a milestone in my learning path:
 ## 📈 Learning Roadmap
 - [x] Basic Variables & Data Types
 - [x] Conditionals (`if`, `else`, `elif`)
-- [x] Loops (`while`)
+- 🔄 Loops (`while`)
 - [ ] Functions
 - [ ] Data Structures
 - [ ] File Handling & APIs
